@@ -3,6 +3,10 @@
 ## Phase 0
 Welcome to the Backend of the `HTML CSS JS GP`. 
 
+*This phase is 2 fold.* 
+
+The first part you should have extensive experience in. You will need to log in to your `aws console` and create a DynamoDB table called `contact` giving the table a `search key` of `id` with a `type` of `String`.
+
 At this point you should open the project up in intellij IDE, and follow the instructions below to get your `api` up and running.
 
 - Open the `/api` folder of this repository inside intellij.
