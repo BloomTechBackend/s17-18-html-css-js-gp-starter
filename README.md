@@ -1,4 +1,4 @@
-# U17 18 HTML CSS JS AXIOS Project
+# S17 18 HTML CSS JS AXIOS Project
 
 ## Introduction - What is this HTML CSS JS Even?
 
